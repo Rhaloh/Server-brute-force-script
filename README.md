@@ -4,6 +4,8 @@ Running the script
 
 git clone https://github.com/Rhaloh/Server-brute-force-script.git
 
+cd Server-brute-force
+
 open your editor of choice 
 
 replace the ip with your server ip
